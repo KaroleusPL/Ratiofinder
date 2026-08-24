@@ -1,4 +1,4 @@
-# RatioFinder
+# Ratiofinder
 Python script to find resolutions to your ratio
 
 # Download as linux command
